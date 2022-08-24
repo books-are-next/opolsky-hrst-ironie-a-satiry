@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="urn:uuid:296c0919-9963-415a-a386-6c26c077b931" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Hrst ironie a satiry</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Bez konfese</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_005.xhtml#_idParaDest-1"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Jeglič biskup</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_006.xhtml#_idParaDest-2"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Cesta k lásce</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_007.xhtml#_idParaDest-3"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Veterán</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_008.xhtml#_idParaDest-4"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Revoluční</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_009.xhtml#_idParaDest-5"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Pláč otce duchovního</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_010.xhtml#_idParaDest-6"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Nová hesla</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_011.xhtml#_idParaDest-7"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>1848</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_012.xhtml#_idParaDest-8"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Degradace</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_013.xhtml#_idParaDest-9"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Večer k úctě Julia Zeyera</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_014.xhtml#_idParaDest-10"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Vojevůdce</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_015.xhtml#_idParaDest-11"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Tělo ženy</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_016.xhtml#_idParaDest-12"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>List programový</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_017.xhtml#_idParaDest-13"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Hospodářství</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_018.xhtml#_idParaDest-14"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Vroucný dopis</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_019.xhtml#_idParaDest-15"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Nová fáse</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_020.xhtml#_idParaDest-16"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Konstituce</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_021.xhtml#_idParaDest-17"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Posvícení</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_022.xhtml#_idParaDest-18"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Slečně</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_023.xhtml#_idParaDest-19"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>Srbsko</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_024.xhtml#_idParaDest-20"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>Modlitba v pensionátu</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_025.xhtml#_idParaDest-21"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Ve jménu světla!</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_026.xhtml#_idParaDest-22"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Rci, Říme...</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_027.xhtml#_idParaDest-23"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Kraj</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_028.xhtml#_idParaDest-24"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>Oloupená rodička</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_029.xhtml#_idParaDest-25"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Korutanské malversace</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_030.xhtml#_idParaDest-26"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Byl jednou jeden…</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_031.xhtml#_idParaDest-27"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Písnička o říšské radě</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_032.xhtml#_idParaDest-28"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Volební reformě</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_033.xhtml#_idParaDest-29"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Aviatika</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_034.xhtml#_idParaDest-30"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>Rozjímání</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_035.xhtml#_idParaDest-31"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Nové království</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_036.xhtml#_idParaDest-32"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Maršálské jubileum</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_037.xhtml#_idParaDest-33"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>Vzhůru!</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_038.xhtml#_idParaDest-34"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Balada</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_039.xhtml#_idParaDest-35"/>
+    </navPoint>
+    <navPoint id="navPoint-36" playOrder="36">
+      <navLabel>
+        <text>Pro lásku</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_040.xhtml#_idParaDest-36"/>
+    </navPoint>
+    <navPoint id="navPoint-37" playOrder="37">
+      <navLabel>
+        <text>Literát</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_041.xhtml#_idParaDest-37"/>
+    </navPoint>
+    <navPoint id="navPoint-38" playOrder="38">
+      <navLabel>
+        <text>Matce</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_042.xhtml#_idParaDest-38"/>
+    </navPoint>
+    <navPoint id="navPoint-39" playOrder="39">
+      <navLabel>
+        <text>Ku konci života</text>
+      </navLabel>
+      <content src="Text/hrst_ironie_a_satiry_043.xhtml#_idParaDest-39"/>
+    </navPoint>
+  </navMap>
+</ncx>
