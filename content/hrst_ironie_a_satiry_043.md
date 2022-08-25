@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ku konci života
+contentType: poetry
 ---
 
 <section>
-
-Ku konci života
 
 Rok po roce mne míjí. Hořknu žitím,  
 jak vždycky dřív, hlad nezkojený cítím  

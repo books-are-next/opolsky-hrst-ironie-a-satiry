@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Kraj
+contentType: poetry
 ---
 
 <section>
-
-Kraj
 
 Naivní, jasný je to život, jaký vedem dneska,  
 prostě námi pochopena tvářnost světa hezká,  

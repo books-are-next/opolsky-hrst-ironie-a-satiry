@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nová hesla
+contentType: poetry
 ---
 
 <section>
-
-Nová hesla
 
 Jsou hesla nová, sytě znící  
 do vašich snů, můj příteli,  
@@ -42,7 +41,7 @@ my pronikáme k nebesům.
 
 <section>
 
-A žena! Kdys jen fantom schvělý…  
+A žena! Kdys jen fantom schvělý_…_  
 Čím byla dříve? Čím jest teď?  
 Na dotaz ten se u postelí  
 nám dává žhavá odpověď.

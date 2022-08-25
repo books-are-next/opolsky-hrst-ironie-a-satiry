@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Hospodářství
+contentType: poetry
 ---
 
 <section>
-
-Hospodářství
 
 Tak smutno v zemi. Po krajích se stmívá,  
 je nevybrána zemská dávka z piva,  

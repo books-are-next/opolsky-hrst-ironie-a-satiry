@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Balada
+contentType: poetry
 ---
 
 <section>
-
-Balada
 
 Hrad Uhúberg jak v mysli mojí pne se,  
 ač nechci začít řeč svou frásemi —  

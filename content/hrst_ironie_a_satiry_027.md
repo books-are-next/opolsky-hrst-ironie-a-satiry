@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Rci, Říme…
+contentType: poetry
 ---
 
 <section>
-
-Rci, Říme…
 
 Rci, Říme, sne můj nad Tiberou,  
 proč tobě zevní půvab berou,  

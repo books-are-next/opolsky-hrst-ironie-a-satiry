@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Ve jménu světla!
+contentType: poetry
 ---
 
 <section>
-
-Ve jménu světla!
 
 Mé drahé město, bůh tě nadej vzrůstem,  
 co ohlasů v mém srdci budíš pustém,  

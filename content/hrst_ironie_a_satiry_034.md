@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Aviatika
+contentType: poetry
 ---
 
 <section>
-
-Aviatika
 
 Vstříc nové době! Jaká slova!  
 Co budoucnost v svém klínu chová,  

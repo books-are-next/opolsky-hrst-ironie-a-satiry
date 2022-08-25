@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Degradace
+contentType: poetry
 ---
 
 <section>
-
-Degradace
 
 Trudná zpráva kormutlivá  
 prošla listy denní,  

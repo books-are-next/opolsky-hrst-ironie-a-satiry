@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Vojevůdce
+contentType: poetry
 ---
 
 <section>
-
-Vojevůdce
 
 Je to pro tu smutnou dráhu náklad jistě pestrý:  
 vojsko, čuby, inženýři, milosrdné sestry,

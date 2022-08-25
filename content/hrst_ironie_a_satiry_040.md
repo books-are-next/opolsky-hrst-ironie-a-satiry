@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Pro lásku
+contentType: poetry
 ---
 
 <section>
-
-Pro lásku
 
 Já zemru, řekl útlým hlasem,  
 dál hoře svého nesnesu,  

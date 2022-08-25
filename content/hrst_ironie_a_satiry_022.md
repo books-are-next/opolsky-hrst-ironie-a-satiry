@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Posvícení
+contentType: poetry
 ---
 
 <section>
-
-Posvícení
 
 Sám nevím už, zda pravdou je, či není,  
 co odbarvila léta rozumná,  

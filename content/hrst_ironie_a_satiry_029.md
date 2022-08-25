@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Oloupená rodička
+contentType: poetry
 ---
 
 <section>
-
-Oloupená rodička
 
 Co podemílá kořeny, cit deistický, vrozený,  
             co víru naši ničí?  

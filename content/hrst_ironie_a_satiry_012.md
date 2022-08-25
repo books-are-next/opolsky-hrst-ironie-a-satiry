@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: '1848'
+contentType: poetry
 ---
 
 <section>
-
-1848
 
 Jsem ovšem mlád, jen vím to z knih,  
 čím byl nám Bach a Metternich  

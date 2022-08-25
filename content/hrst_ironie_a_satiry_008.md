@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Veterán
+contentType: poetry
 ---
 
 <section>
-
-Veterán
 
 My hudbu slýchali, jež přehlušila stony  
 a vraceli se tupí od Verony,  

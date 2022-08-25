@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Jeglič biskup
+contentType: poetry
 ---
 
 <section>
-
-Jeglič biskup
 
 Tvá stará sláva, Paul de Cocku,  
 zdaž vyvětrala během roků  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Modlitba v\_pensionátu"
+contentType: poetry
 ---
 
 <section>
-
-Modlitba v pensionátu
 
 Já plála smyslně a záhadně jsem vřela,  
 jak v máji měsíci, než jabloň vykvete,  

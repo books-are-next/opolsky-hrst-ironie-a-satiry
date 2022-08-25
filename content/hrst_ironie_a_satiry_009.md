@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Revoluční
+contentType: poetry
 ---
 
 <section>
-
-Revoluční
 
 Hodina přišla, odbila,  
 potřeba rukou u díla  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nové království
+contentType: poetry
 ---
 
 <section>
-
-Nové království
 
 Zjeví se nám Černá Hora ve vyšší teď nádheře,  
 vyšší vlny dmout se musí na Skaderském jezeře,  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Bez konfese
+contentType: poetry
 ---
 
 <section>
-
-Bez konfese
 
 Malé jest mé rodné město, o němž verše lepím,  
 se sřícených borohrádků kruhem velkolepým.  

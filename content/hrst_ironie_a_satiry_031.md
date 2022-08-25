@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Byl jednou jeden…
+contentType: poetry
 ---
 
 <section>
-
-Byl jednou jeden…
 
 Byl jednou jeden mocný král, jak vetchá báje svědčí,  
 živ za devíti horami a svedl mnoho řečí  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Tělo ženy
+contentType: poetry
 ---
 
 <section>
-
-Tělo ženy
 
 _Prospekt_
 

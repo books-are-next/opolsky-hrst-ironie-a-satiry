@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Písnička o\_říšské radě"
+contentType: poetry
 ---
 
 <section>
-
-Písnička o říšské radě
 
 Milý bože, jak se urodilo!  
 Do jaké to výšky pneme se!  
