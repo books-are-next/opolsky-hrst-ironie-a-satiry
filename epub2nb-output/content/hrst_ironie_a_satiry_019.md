@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Vroucný dopis
+contentType: poetry
 ---
 
 <section>
-
-Vroucný dopis
 
 Až budeš, duše milená,  
 číst za soumraku schýlená  

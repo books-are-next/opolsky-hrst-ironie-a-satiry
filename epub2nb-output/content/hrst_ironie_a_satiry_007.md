@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Cesta k\_lásce"
+contentType: poetry
 ---
 
 <section>
-
-Cesta k lásce
 
 Je zřejmo už, že nejdem zpátky. Rostem.  
 A budem růsti, díky okolnostem,  

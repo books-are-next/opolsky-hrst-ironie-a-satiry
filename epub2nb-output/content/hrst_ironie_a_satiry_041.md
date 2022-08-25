@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Literát
+contentType: poetry
 ---
 
 <section>
-
-Literát
 
 Jaro, léto, podzim, zima, slunce, mlhy, kroupy,  
 provázejte dobrotivě příběh tento hloupý,  

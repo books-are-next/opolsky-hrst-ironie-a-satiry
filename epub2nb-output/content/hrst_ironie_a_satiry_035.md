@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Rozjímání
+contentType: poetry
 ---
 
 <section>
-
-Rozjímání
 
 U nás je, chval bůh, všeho dost a žádná nouze není  
 o možnost, býti veselým a míti vyražení.  

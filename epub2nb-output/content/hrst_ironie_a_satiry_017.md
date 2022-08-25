@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: List programový
+contentType: poetry
 ---
 
 <section>
-
-List programový
 
 Otázku, než se rozejdeme:  
 jaké má list Váš intence?  

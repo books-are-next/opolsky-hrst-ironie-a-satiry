@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Volební reformě
+contentType: poetry
 ---
 
 <section>
-
-Volební reformě
 
 Féerie se velká v domě tají,  
 kusé zprávy na ven pronikají,  

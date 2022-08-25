@@ -1,0 +1,970 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Hrst ironie a satiry",
+  "author": "Jan Opolský",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "poezie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "opolsky-hrst-ironie-a-satiry-99c5f14",
+  "revision": "99c5f14",
+  "readingOrder": [
+    "promo.html",
+    "hrst_ironie_a_satiry_001.html",
+    "hrst_ironie_a_satiry_002.html",
+    "hrst_ironie_a_satiry_003.html",
+    "hrst_ironie_a_satiry_004.html",
+    "hrst_ironie_a_satiry_005.html",
+    "hrst_ironie_a_satiry_006.html",
+    "hrst_ironie_a_satiry_007.html",
+    "hrst_ironie_a_satiry_008.html",
+    "hrst_ironie_a_satiry_009.html",
+    "hrst_ironie_a_satiry_010.html",
+    "hrst_ironie_a_satiry_011.html",
+    "hrst_ironie_a_satiry_012.html",
+    "hrst_ironie_a_satiry_013.html",
+    "hrst_ironie_a_satiry_014.html",
+    "hrst_ironie_a_satiry_015.html",
+    "hrst_ironie_a_satiry_016.html",
+    "hrst_ironie_a_satiry_017.html",
+    "hrst_ironie_a_satiry_018.html",
+    "hrst_ironie_a_satiry_019.html",
+    "hrst_ironie_a_satiry_020.html",
+    "hrst_ironie_a_satiry_021.html",
+    "hrst_ironie_a_satiry_022.html",
+    "hrst_ironie_a_satiry_023.html",
+    "hrst_ironie_a_satiry_024.html",
+    "hrst_ironie_a_satiry_025.html",
+    "hrst_ironie_a_satiry_026.html",
+    "hrst_ironie_a_satiry_027.html",
+    "hrst_ironie_a_satiry_028.html",
+    "hrst_ironie_a_satiry_029.html",
+    "hrst_ironie_a_satiry_030.html",
+    "hrst_ironie_a_satiry_031.html",
+    "hrst_ironie_a_satiry_032.html",
+    "hrst_ironie_a_satiry_033.html",
+    "hrst_ironie_a_satiry_034.html",
+    "hrst_ironie_a_satiry_035.html",
+    "hrst_ironie_a_satiry_036.html",
+    "hrst_ironie_a_satiry_037.html",
+    "hrst_ironie_a_satiry_038.html",
+    "hrst_ironie_a_satiry_039.html",
+    "hrst_ironie_a_satiry_040.html",
+    "hrst_ironie_a_satiry_041.html",
+    "hrst_ironie_a_satiry_042.html",
+    "hrst_ironie_a_satiry_043.html",
+    "hrst_ironie_a_satiry_044.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Aug 25 2022 10:26:44 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661423204973
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "hrst_ironie_a_satiry_001.html",
+      "toc": []
+    },
+    {
+      "title": "Hrst ironie a satiry",
+      "file": "hrst_ironie_a_satiry_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "hrst_ironie_a_satiry_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrst ironie a satiry",
+      "file": "hrst_ironie_a_satiry_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "hrst_ironie_a_satiry_001.html",
+      "next": "hrst_ironie_a_satiry_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrst ironie a satiry",
+      "file": "hrst_ironie_a_satiry_003.html",
+      "words": 6,
+      "chars": 31,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 3,
+      "prev": "hrst_ironie_a_satiry_002.html",
+      "next": "hrst_ironie_a_satiry_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrst ironie a satiry",
+      "file": "hrst_ironie_a_satiry_004.html",
+      "words": 94,
+      "chars": 596,
+      "ideas": 9,
+      "role": "chapter",
+      "order": 4,
+      "prev": "hrst_ironie_a_satiry_003.html",
+      "next": "hrst_ironie_a_satiry_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Bez konfese",
+      "file": "hrst_ironie_a_satiry_005.html",
+      "words": 834,
+      "chars": 5024,
+      "ideas": 120,
+      "role": "chapter",
+      "order": 5,
+      "prev": "hrst_ironie_a_satiry_004.html",
+      "next": "hrst_ironie_a_satiry_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Bez konfese",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jeglič biskup",
+      "file": "hrst_ironie_a_satiry_006.html",
+      "words": 141,
+      "chars": 716,
+      "ideas": 31,
+      "role": "chapter",
+      "order": 6,
+      "prev": "hrst_ironie_a_satiry_005.html",
+      "next": "hrst_ironie_a_satiry_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jeglič biskup",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cesta k lásce",
+      "file": "hrst_ironie_a_satiry_007.html",
+      "words": 217,
+      "chars": 1161,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 7,
+      "prev": "hrst_ironie_a_satiry_006.html",
+      "next": "hrst_ironie_a_satiry_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cesta k lásce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Veterán",
+      "file": "hrst_ironie_a_satiry_008.html",
+      "words": 99,
+      "chars": 536,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 8,
+      "prev": "hrst_ironie_a_satiry_007.html",
+      "next": "hrst_ironie_a_satiry_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Veterán",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Revoluční",
+      "file": "hrst_ironie_a_satiry_009.html",
+      "words": 94,
+      "chars": 535,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 9,
+      "prev": "hrst_ironie_a_satiry_008.html",
+      "next": "hrst_ironie_a_satiry_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Revoluční",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pláč otce duchovního",
+      "file": "hrst_ironie_a_satiry_010.html",
+      "words": 158,
+      "chars": 944,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 10,
+      "prev": "hrst_ironie_a_satiry_009.html",
+      "next": "hrst_ironie_a_satiry_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pláč otce duchovního",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nová hesla",
+      "file": "hrst_ironie_a_satiry_011.html",
+      "words": 146,
+      "chars": 757,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 11,
+      "prev": "hrst_ironie_a_satiry_010.html",
+      "next": "hrst_ironie_a_satiry_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nová hesla",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "1848",
+      "file": "hrst_ironie_a_satiry_012.html",
+      "words": 186,
+      "chars": 1012,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 12,
+      "prev": "hrst_ironie_a_satiry_011.html",
+      "next": "hrst_ironie_a_satiry_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "1848",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Degradace",
+      "file": "hrst_ironie_a_satiry_013.html",
+      "words": 309,
+      "chars": 1719,
+      "ideas": 81,
+      "role": "chapter",
+      "order": 13,
+      "prev": "hrst_ironie_a_satiry_012.html",
+      "next": "hrst_ironie_a_satiry_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Degradace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Večer k úctě Julia Zeyera",
+      "file": "hrst_ironie_a_satiry_014.html",
+      "words": 273,
+      "chars": 1652,
+      "ideas": 41,
+      "role": "chapter",
+      "order": 14,
+      "prev": "hrst_ironie_a_satiry_013.html",
+      "next": "hrst_ironie_a_satiry_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Večer k úctě Julia Zeyera",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vojevůdce",
+      "file": "hrst_ironie_a_satiry_015.html",
+      "words": 155,
+      "chars": 927,
+      "ideas": 23,
+      "role": "chapter",
+      "order": 15,
+      "prev": "hrst_ironie_a_satiry_014.html",
+      "next": "hrst_ironie_a_satiry_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vojevůdce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tělo ženy",
+      "file": "hrst_ironie_a_satiry_016.html",
+      "words": 138,
+      "chars": 855,
+      "ideas": 22,
+      "role": "chapter",
+      "order": 16,
+      "prev": "hrst_ironie_a_satiry_015.html",
+      "next": "hrst_ironie_a_satiry_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tělo ženy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "List programový",
+      "file": "hrst_ironie_a_satiry_017.html",
+      "words": 57,
+      "chars": 315,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 17,
+      "prev": "hrst_ironie_a_satiry_016.html",
+      "next": "hrst_ironie_a_satiry_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "List programový",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hospodářství",
+      "file": "hrst_ironie_a_satiry_018.html",
+      "words": 303,
+      "chars": 1634,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 18,
+      "prev": "hrst_ironie_a_satiry_017.html",
+      "next": "hrst_ironie_a_satiry_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Hospodářství",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vroucný dopis",
+      "file": "hrst_ironie_a_satiry_019.html",
+      "words": 76,
+      "chars": 409,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 19,
+      "prev": "hrst_ironie_a_satiry_018.html",
+      "next": "hrst_ironie_a_satiry_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vroucný dopis",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nová fáse",
+      "file": "hrst_ironie_a_satiry_020.html",
+      "words": 226,
+      "chars": 1373,
+      "ideas": 34,
+      "role": "chapter",
+      "order": 20,
+      "prev": "hrst_ironie_a_satiry_019.html",
+      "next": "hrst_ironie_a_satiry_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nová fáse",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Konstituce",
+      "file": "hrst_ironie_a_satiry_021.html",
+      "words": 95,
+      "chars": 573,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 21,
+      "prev": "hrst_ironie_a_satiry_020.html",
+      "next": "hrst_ironie_a_satiry_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Konstituce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Posvícení",
+      "file": "hrst_ironie_a_satiry_022.html",
+      "words": 175,
+      "chars": 919,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 22,
+      "prev": "hrst_ironie_a_satiry_021.html",
+      "next": "hrst_ironie_a_satiry_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Posvícení",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Slečně",
+      "file": "hrst_ironie_a_satiry_023.html",
+      "words": 97,
+      "chars": 511,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 23,
+      "prev": "hrst_ironie_a_satiry_022.html",
+      "next": "hrst_ironie_a_satiry_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Slečně",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Srbsko",
+      "file": "hrst_ironie_a_satiry_024.html",
+      "words": 90,
+      "chars": 507,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 24,
+      "prev": "hrst_ironie_a_satiry_023.html",
+      "next": "hrst_ironie_a_satiry_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Srbsko",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Modlitba v pensionátu",
+      "file": "hrst_ironie_a_satiry_025.html",
+      "words": 91,
+      "chars": 485,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 25,
+      "prev": "hrst_ironie_a_satiry_024.html",
+      "next": "hrst_ironie_a_satiry_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Modlitba v pensionátu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ve jménu světla!",
+      "file": "hrst_ironie_a_satiry_026.html",
+      "words": 963,
+      "chars": 5223,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 26,
+      "prev": "hrst_ironie_a_satiry_025.html",
+      "next": "hrst_ironie_a_satiry_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ve jménu světla!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rci, Říme…",
+      "file": "hrst_ironie_a_satiry_027.html",
+      "words": 180,
+      "chars": 966,
+      "ideas": 37,
+      "role": "chapter",
+      "order": 27,
+      "prev": "hrst_ironie_a_satiry_026.html",
+      "next": "hrst_ironie_a_satiry_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rci, Říme…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Kraj",
+      "file": "hrst_ironie_a_satiry_028.html",
+      "words": 111,
+      "chars": 695,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 28,
+      "prev": "hrst_ironie_a_satiry_027.html",
+      "next": "hrst_ironie_a_satiry_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Kraj",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Oloupená rodička",
+      "file": "hrst_ironie_a_satiry_029.html",
+      "words": 131,
+      "chars": 707,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 29,
+      "prev": "hrst_ironie_a_satiry_028.html",
+      "next": "hrst_ironie_a_satiry_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Oloupená rodička",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Korutanské malversace",
+      "file": "hrst_ironie_a_satiry_030.html",
+      "words": 165,
+      "chars": 1104,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 30,
+      "prev": "hrst_ironie_a_satiry_029.html",
+      "next": "hrst_ironie_a_satiry_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Korutanské malversace",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Byl jednou jeden…",
+      "file": "hrst_ironie_a_satiry_031.html",
+      "words": 232,
+      "chars": 1255,
+      "ideas": 27,
+      "role": "chapter",
+      "order": 31,
+      "prev": "hrst_ironie_a_satiry_030.html",
+      "next": "hrst_ironie_a_satiry_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Byl jednou jeden…",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Písnička o říšské radě",
+      "file": "hrst_ironie_a_satiry_032.html",
+      "words": 59,
+      "chars": 344,
+      "ideas": 13,
+      "role": "chapter",
+      "order": 32,
+      "prev": "hrst_ironie_a_satiry_031.html",
+      "next": "hrst_ironie_a_satiry_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Písnička o říšské radě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Volební reformě",
+      "file": "hrst_ironie_a_satiry_033.html",
+      "words": 154,
+      "chars": 853,
+      "ideas": 38,
+      "role": "chapter",
+      "order": 33,
+      "prev": "hrst_ironie_a_satiry_032.html",
+      "next": "hrst_ironie_a_satiry_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Volební reformě",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Aviatika",
+      "file": "hrst_ironie_a_satiry_034.html",
+      "words": 91,
+      "chars": 479,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 34,
+      "prev": "hrst_ironie_a_satiry_033.html",
+      "next": "hrst_ironie_a_satiry_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Aviatika",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Rozjímání",
+      "file": "hrst_ironie_a_satiry_035.html",
+      "words": 409,
+      "chars": 2200,
+      "ideas": 47,
+      "role": "chapter",
+      "order": 35,
+      "prev": "hrst_ironie_a_satiry_034.html",
+      "next": "hrst_ironie_a_satiry_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Rozjímání",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nové království",
+      "file": "hrst_ironie_a_satiry_036.html",
+      "words": 143,
+      "chars": 815,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 36,
+      "prev": "hrst_ironie_a_satiry_035.html",
+      "next": "hrst_ironie_a_satiry_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nové království",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Maršálské jubileum",
+      "file": "hrst_ironie_a_satiry_037.html",
+      "words": 95,
+      "chars": 496,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 37,
+      "prev": "hrst_ironie_a_satiry_036.html",
+      "next": "hrst_ironie_a_satiry_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Maršálské jubileum",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vzhůru!",
+      "file": "hrst_ironie_a_satiry_038.html",
+      "words": 68,
+      "chars": 397,
+      "ideas": 19,
+      "role": "chapter",
+      "order": 38,
+      "prev": "hrst_ironie_a_satiry_037.html",
+      "next": "hrst_ironie_a_satiry_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vzhůru!",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Balada",
+      "file": "hrst_ironie_a_satiry_039.html",
+      "words": 197,
+      "chars": 1044,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 39,
+      "prev": "hrst_ironie_a_satiry_038.html",
+      "next": "hrst_ironie_a_satiry_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Balada",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pro lásku",
+      "file": "hrst_ironie_a_satiry_040.html",
+      "words": 97,
+      "chars": 513,
+      "ideas": 21,
+      "role": "chapter",
+      "order": 40,
+      "prev": "hrst_ironie_a_satiry_039.html",
+      "next": "hrst_ironie_a_satiry_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pro lásku",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Literát",
+      "file": "hrst_ironie_a_satiry_041.html",
+      "words": 1164,
+      "chars": 7019,
+      "ideas": 165,
+      "role": "chapter",
+      "order": 41,
+      "prev": "hrst_ironie_a_satiry_040.html",
+      "next": "hrst_ironie_a_satiry_042.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Literát",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Matce",
+      "file": "hrst_ironie_a_satiry_042.html",
+      "words": 119,
+      "chars": 684,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 42,
+      "prev": "hrst_ironie_a_satiry_041.html",
+      "next": "hrst_ironie_a_satiry_043.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Matce",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ku konci života",
+      "file": "hrst_ironie_a_satiry_043.html",
+      "words": 210,
+      "chars": 1148,
+      "ideas": 43,
+      "role": "chapter",
+      "order": 43,
+      "prev": "hrst_ironie_a_satiry_042.html",
+      "next": "hrst_ironie_a_satiry_044.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ku konci života",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Hrst ironie a satiry",
+      "file": "hrst_ironie_a_satiry_044.html",
+      "words": 48,
+      "chars": 302,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 44,
+      "prev": "hrst_ironie_a_satiry_043.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 8707,
+      "chars": 49480,
+      "ideas": 1498
+    },
+    "chapters": {
+      "words": 8698,
+      "chars": 49435,
+      "ideas": 1493
+    }
+  }
+}

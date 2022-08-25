@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Konstituce
+contentType: poetry
 ---
 
 <section>
-
-Konstituce
 
 Na Rusi zrá — pokoj Ignatěvu —  
 konstituce obraz mladický,  

@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Nová fáse
+contentType: poetry
 ---
 
 <section>
-
-Nová fáse
 
 _(1909)_
 

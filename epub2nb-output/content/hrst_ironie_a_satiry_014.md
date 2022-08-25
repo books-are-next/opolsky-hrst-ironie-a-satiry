@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: "Večer k\_úctě Julia Zeyera"
+contentType: poetry
 ---
 
 <section>
-
-Večer k úctě Julia Zeyera
 
 Ač jsem pohan vlastizrádný — to se všude zná!  
 ondy přec mne pokořila slavnost líbezná.  

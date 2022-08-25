@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Slečně
+contentType: poetry
 ---
 
 <section>
-
-Slečně
 
 Mám v každý čas vždy pocit hrůzy jistý,  
 když probírám se „Národními Listy“,  

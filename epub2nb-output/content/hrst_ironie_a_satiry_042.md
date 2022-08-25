@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Matce
+contentType: poetry
 ---
 
 <section>
-
-Matce
 
 Zlíbej, matko ustaraná, čelo svého syna,  
 povolena z pravomoci kratší vojančina,  

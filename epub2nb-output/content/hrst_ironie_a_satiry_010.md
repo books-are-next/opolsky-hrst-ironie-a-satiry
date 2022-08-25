@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Pláč otce duchovního
+contentType: poetry
 ---
 
 <section>
-
-Pláč otce duchovního
 
 Všecko dá se obměkčiti, jenom čas je krutý,  
 tratí na své závaznosti staré servituty.  

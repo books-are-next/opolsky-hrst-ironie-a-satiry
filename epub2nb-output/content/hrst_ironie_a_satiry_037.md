@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Maršálské jubileum
+contentType: poetry
 ---
 
 <section>
-
-Maršálské jubileum
 
 Má každá rasa svoje znaky,  
 — my Čechové je máme taky —  

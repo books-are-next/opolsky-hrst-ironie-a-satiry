@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Srbsko
+contentType: poetry
 ---
 
 <section>
-
-Srbsko
 
 Oči mé snad bezvědomky  
 v knize se starými zlomky  

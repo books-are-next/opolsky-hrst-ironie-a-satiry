@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Korutanské malversace
+contentType: poetry
 ---
 
 <section>
-
-Korutanské malversace
 
 Taková jest, temná zemi, všecka tvoje nádhera,  
 gigantické ledné hory, zasmušená jezera,  

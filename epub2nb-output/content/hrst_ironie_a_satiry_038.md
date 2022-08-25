@@ -1,10 +1,9 @@
 ---
-contentType: prose
+title: Vzhůru!
+contentType: poetry
 ---
 
 <section>
-
-Vzhůru!
 
 Zůstaneme sobě věrni  
 v temné knihtiskařské černi  
