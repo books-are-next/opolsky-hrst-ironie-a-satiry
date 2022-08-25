@@ -8,14 +8,10 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "opolsky-hrst-ironie-a-satiry-99c5f14",
-  "revision": "99c5f14",
+  "identifier": "opolsky-hrst-ironie-a-satiry-bc7b0d5",
+  "revision": "bc7b0d5",
   "readingOrder": [
     "promo.html",
-    "hrst_ironie_a_satiry_001.html",
-    "hrst_ironie_a_satiry_002.html",
-    "hrst_ironie_a_satiry_003.html",
-    "hrst_ironie_a_satiry_004.html",
     "hrst_ironie_a_satiry_005.html",
     "hrst_ironie_a_satiry_006.html",
     "hrst_ironie_a_satiry_007.html",
@@ -55,11 +51,11 @@
     "hrst_ironie_a_satiry_041.html",
     "hrst_ironie_a_satiry_042.html",
     "hrst_ironie_a_satiry_043.html",
-    "hrst_ironie_a_satiry_044.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Aug 25 2022 10:26:44 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1661423204973
+    "date": "Thu Aug 25 2022 11:24:30 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1661426670788
   },
   "documents": [
     {
@@ -71,88 +67,8 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
-      "next": "hrst_ironie_a_satiry_001.html",
-      "toc": []
-    },
-    {
-      "title": "Hrst ironie a satiry",
-      "file": "hrst_ironie_a_satiry_001.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 1,
-      "prev": "promo.html",
-      "next": "hrst_ironie_a_satiry_002.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hrst ironie a satiry",
-      "file": "hrst_ironie_a_satiry_002.html",
-      "words": 1,
-      "chars": 0,
-      "ideas": 1,
-      "role": "chapter",
-      "order": 2,
-      "prev": "hrst_ironie_a_satiry_001.html",
-      "next": "hrst_ironie_a_satiry_003.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hrst ironie a satiry",
-      "file": "hrst_ironie_a_satiry_003.html",
-      "words": 6,
-      "chars": 31,
-      "ideas": 2,
-      "role": "chapter",
-      "order": 3,
-      "prev": "hrst_ironie_a_satiry_002.html",
-      "next": "hrst_ironie_a_satiry_004.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
-    },
-    {
-      "title": "Hrst ironie a satiry",
-      "file": "hrst_ironie_a_satiry_004.html",
-      "words": 94,
-      "chars": 596,
-      "ideas": 9,
-      "role": "chapter",
-      "order": 4,
-      "prev": "hrst_ironie_a_satiry_003.html",
       "next": "hrst_ironie_a_satiry_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Bez konfese",
@@ -161,8 +77,8 @@
       "chars": 5024,
       "ideas": 120,
       "role": "chapter",
-      "order": 5,
-      "prev": "hrst_ironie_a_satiry_004.html",
+      "order": 1,
+      "prev": "promo.html",
       "next": "hrst_ironie_a_satiry_006.html",
       "toc": [
         {
@@ -181,7 +97,7 @@
       "chars": 716,
       "ideas": 31,
       "role": "chapter",
-      "order": 6,
+      "order": 2,
       "prev": "hrst_ironie_a_satiry_005.html",
       "next": "hrst_ironie_a_satiry_007.html",
       "toc": [
@@ -201,7 +117,7 @@
       "chars": 1161,
       "ideas": 43,
       "role": "chapter",
-      "order": 7,
+      "order": 3,
       "prev": "hrst_ironie_a_satiry_006.html",
       "next": "hrst_ironie_a_satiry_008.html",
       "toc": [
@@ -221,7 +137,7 @@
       "chars": 536,
       "ideas": 19,
       "role": "chapter",
-      "order": 8,
+      "order": 4,
       "prev": "hrst_ironie_a_satiry_007.html",
       "next": "hrst_ironie_a_satiry_009.html",
       "toc": [
@@ -241,7 +157,7 @@
       "chars": 535,
       "ideas": 25,
       "role": "chapter",
-      "order": 9,
+      "order": 5,
       "prev": "hrst_ironie_a_satiry_008.html",
       "next": "hrst_ironie_a_satiry_010.html",
       "toc": [
@@ -261,7 +177,7 @@
       "chars": 944,
       "ideas": 23,
       "role": "chapter",
-      "order": 10,
+      "order": 6,
       "prev": "hrst_ironie_a_satiry_009.html",
       "next": "hrst_ironie_a_satiry_011.html",
       "toc": [
@@ -281,7 +197,7 @@
       "chars": 757,
       "ideas": 29,
       "role": "chapter",
-      "order": 11,
+      "order": 7,
       "prev": "hrst_ironie_a_satiry_010.html",
       "next": "hrst_ironie_a_satiry_012.html",
       "toc": [
@@ -301,7 +217,7 @@
       "chars": 1012,
       "ideas": 43,
       "role": "chapter",
-      "order": 12,
+      "order": 8,
       "prev": "hrst_ironie_a_satiry_011.html",
       "next": "hrst_ironie_a_satiry_013.html",
       "toc": [
@@ -321,7 +237,7 @@
       "chars": 1719,
       "ideas": 81,
       "role": "chapter",
-      "order": 13,
+      "order": 9,
       "prev": "hrst_ironie_a_satiry_012.html",
       "next": "hrst_ironie_a_satiry_014.html",
       "toc": [
@@ -341,7 +257,7 @@
       "chars": 1652,
       "ideas": 41,
       "role": "chapter",
-      "order": 14,
+      "order": 10,
       "prev": "hrst_ironie_a_satiry_013.html",
       "next": "hrst_ironie_a_satiry_015.html",
       "toc": [
@@ -361,7 +277,7 @@
       "chars": 927,
       "ideas": 23,
       "role": "chapter",
-      "order": 15,
+      "order": 11,
       "prev": "hrst_ironie_a_satiry_014.html",
       "next": "hrst_ironie_a_satiry_016.html",
       "toc": [
@@ -381,7 +297,7 @@
       "chars": 855,
       "ideas": 22,
       "role": "chapter",
-      "order": 16,
+      "order": 12,
       "prev": "hrst_ironie_a_satiry_015.html",
       "next": "hrst_ironie_a_satiry_017.html",
       "toc": [
@@ -401,7 +317,7 @@
       "chars": 315,
       "ideas": 13,
       "role": "chapter",
-      "order": 17,
+      "order": 13,
       "prev": "hrst_ironie_a_satiry_016.html",
       "next": "hrst_ironie_a_satiry_018.html",
       "toc": [
@@ -421,7 +337,7 @@
       "chars": 1634,
       "ideas": 61,
       "role": "chapter",
-      "order": 18,
+      "order": 14,
       "prev": "hrst_ironie_a_satiry_017.html",
       "next": "hrst_ironie_a_satiry_019.html",
       "toc": [
@@ -441,7 +357,7 @@
       "chars": 409,
       "ideas": 19,
       "role": "chapter",
-      "order": 19,
+      "order": 15,
       "prev": "hrst_ironie_a_satiry_018.html",
       "next": "hrst_ironie_a_satiry_020.html",
       "toc": [
@@ -461,7 +377,7 @@
       "chars": 1373,
       "ideas": 34,
       "role": "chapter",
-      "order": 20,
+      "order": 16,
       "prev": "hrst_ironie_a_satiry_019.html",
       "next": "hrst_ironie_a_satiry_021.html",
       "toc": [
@@ -481,7 +397,7 @@
       "chars": 573,
       "ideas": 21,
       "role": "chapter",
-      "order": 21,
+      "order": 17,
       "prev": "hrst_ironie_a_satiry_020.html",
       "next": "hrst_ironie_a_satiry_022.html",
       "toc": [
@@ -501,7 +417,7 @@
       "chars": 919,
       "ideas": 29,
       "role": "chapter",
-      "order": 22,
+      "order": 18,
       "prev": "hrst_ironie_a_satiry_021.html",
       "next": "hrst_ironie_a_satiry_023.html",
       "toc": [
@@ -521,7 +437,7 @@
       "chars": 511,
       "ideas": 19,
       "role": "chapter",
-      "order": 23,
+      "order": 19,
       "prev": "hrst_ironie_a_satiry_022.html",
       "next": "hrst_ironie_a_satiry_024.html",
       "toc": [
@@ -541,7 +457,7 @@
       "chars": 507,
       "ideas": 25,
       "role": "chapter",
-      "order": 24,
+      "order": 20,
       "prev": "hrst_ironie_a_satiry_023.html",
       "next": "hrst_ironie_a_satiry_025.html",
       "toc": [
@@ -561,7 +477,7 @@
       "chars": 485,
       "ideas": 13,
       "role": "chapter",
-      "order": 25,
+      "order": 21,
       "prev": "hrst_ironie_a_satiry_024.html",
       "next": "hrst_ironie_a_satiry_026.html",
       "toc": [
@@ -581,7 +497,7 @@
       "chars": 5223,
       "ideas": 154,
       "role": "chapter",
-      "order": 26,
+      "order": 22,
       "prev": "hrst_ironie_a_satiry_025.html",
       "next": "hrst_ironie_a_satiry_027.html",
       "toc": [
@@ -601,7 +517,7 @@
       "chars": 966,
       "ideas": 37,
       "role": "chapter",
-      "order": 27,
+      "order": 23,
       "prev": "hrst_ironie_a_satiry_026.html",
       "next": "hrst_ironie_a_satiry_028.html",
       "toc": [
@@ -621,7 +537,7 @@
       "chars": 695,
       "ideas": 17,
       "role": "chapter",
-      "order": 28,
+      "order": 24,
       "prev": "hrst_ironie_a_satiry_027.html",
       "next": "hrst_ironie_a_satiry_029.html",
       "toc": [
@@ -641,7 +557,7 @@
       "chars": 707,
       "ideas": 21,
       "role": "chapter",
-      "order": 29,
+      "order": 25,
       "prev": "hrst_ironie_a_satiry_028.html",
       "next": "hrst_ironie_a_satiry_030.html",
       "toc": [
@@ -661,7 +577,7 @@
       "chars": 1104,
       "ideas": 25,
       "role": "chapter",
-      "order": 30,
+      "order": 26,
       "prev": "hrst_ironie_a_satiry_029.html",
       "next": "hrst_ironie_a_satiry_031.html",
       "toc": [
@@ -681,7 +597,7 @@
       "chars": 1255,
       "ideas": 27,
       "role": "chapter",
-      "order": 31,
+      "order": 27,
       "prev": "hrst_ironie_a_satiry_030.html",
       "next": "hrst_ironie_a_satiry_032.html",
       "toc": [
@@ -701,7 +617,7 @@
       "chars": 344,
       "ideas": 13,
       "role": "chapter",
-      "order": 32,
+      "order": 28,
       "prev": "hrst_ironie_a_satiry_031.html",
       "next": "hrst_ironie_a_satiry_033.html",
       "toc": [
@@ -721,7 +637,7 @@
       "chars": 853,
       "ideas": 38,
       "role": "chapter",
-      "order": 33,
+      "order": 29,
       "prev": "hrst_ironie_a_satiry_032.html",
       "next": "hrst_ironie_a_satiry_034.html",
       "toc": [
@@ -741,7 +657,7 @@
       "chars": 479,
       "ideas": 19,
       "role": "chapter",
-      "order": 34,
+      "order": 30,
       "prev": "hrst_ironie_a_satiry_033.html",
       "next": "hrst_ironie_a_satiry_035.html",
       "toc": [
@@ -761,7 +677,7 @@
       "chars": 2200,
       "ideas": 47,
       "role": "chapter",
-      "order": 35,
+      "order": 31,
       "prev": "hrst_ironie_a_satiry_034.html",
       "next": "hrst_ironie_a_satiry_036.html",
       "toc": [
@@ -781,7 +697,7 @@
       "chars": 815,
       "ideas": 19,
       "role": "chapter",
-      "order": 36,
+      "order": 32,
       "prev": "hrst_ironie_a_satiry_035.html",
       "next": "hrst_ironie_a_satiry_037.html",
       "toc": [
@@ -801,7 +717,7 @@
       "chars": 496,
       "ideas": 19,
       "role": "chapter",
-      "order": 37,
+      "order": 33,
       "prev": "hrst_ironie_a_satiry_036.html",
       "next": "hrst_ironie_a_satiry_038.html",
       "toc": [
@@ -821,7 +737,7 @@
       "chars": 397,
       "ideas": 19,
       "role": "chapter",
-      "order": 38,
+      "order": 34,
       "prev": "hrst_ironie_a_satiry_037.html",
       "next": "hrst_ironie_a_satiry_039.html",
       "toc": [
@@ -841,7 +757,7 @@
       "chars": 1044,
       "ideas": 33,
       "role": "chapter",
-      "order": 39,
+      "order": 35,
       "prev": "hrst_ironie_a_satiry_038.html",
       "next": "hrst_ironie_a_satiry_040.html",
       "toc": [
@@ -861,7 +777,7 @@
       "chars": 513,
       "ideas": 21,
       "role": "chapter",
-      "order": 40,
+      "order": 36,
       "prev": "hrst_ironie_a_satiry_039.html",
       "next": "hrst_ironie_a_satiry_041.html",
       "toc": [
@@ -881,7 +797,7 @@
       "chars": 7019,
       "ideas": 165,
       "role": "chapter",
-      "order": 41,
+      "order": 37,
       "prev": "hrst_ironie_a_satiry_040.html",
       "next": "hrst_ironie_a_satiry_042.html",
       "toc": [
@@ -901,7 +817,7 @@
       "chars": 684,
       "ideas": 17,
       "role": "chapter",
-      "order": 42,
+      "order": 38,
       "prev": "hrst_ironie_a_satiry_041.html",
       "next": "hrst_ironie_a_satiry_043.html",
       "toc": [
@@ -921,9 +837,9 @@
       "chars": 1148,
       "ideas": 43,
       "role": "chapter",
-      "order": 43,
+      "order": 39,
       "prev": "hrst_ironie_a_satiry_042.html",
-      "next": "hrst_ironie_a_satiry_044.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -935,20 +851,20 @@
       ]
     },
     {
-      "title": "Hrst ironie a satiry",
-      "file": "hrst_ironie_a_satiry_044.html",
-      "words": 48,
-      "chars": 302,
-      "ideas": 12,
-      "role": "chapter",
-      "order": 44,
+      "title": "Tiráž",
+      "file": "about.html",
+      "words": 138,
+      "chars": 867,
+      "ideas": 18,
+      "role": "about",
+      "order": null,
       "prev": "hrst_ironie_a_satiry_043.html",
       "next": null,
       "toc": [
         {
           "index": 0,
           "level": 1,
-          "name": null,
+          "name": "Tiráž",
           "id": null,
           "children": []
         }
@@ -957,14 +873,14 @@
   ],
   "totals": {
     "all": {
-      "words": 8707,
-      "chars": 49480,
-      "ideas": 1498
+      "words": 8694,
+      "chars": 49413,
+      "ideas": 1490
     },
     "chapters": {
-      "words": 8698,
-      "chars": 49435,
-      "ideas": 1493
+      "words": 8548,
+      "chars": 48506,
+      "ideas": 1468
     }
   }
 }

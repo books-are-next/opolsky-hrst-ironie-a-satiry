@@ -42,9 +42,9 @@
             "filename": "hrst_ironie_a_satiry_001.md",
             "xhtml": "hrst_ironie_a_satiry_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -54,9 +54,9 @@
             "filename": "hrst_ironie_a_satiry_002.md",
             "xhtml": "hrst_ironie_a_satiry_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -66,9 +66,9 @@
             "filename": "hrst_ironie_a_satiry_003.md",
             "xhtml": "hrst_ironie_a_satiry_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -78,9 +78,9 @@
             "filename": "hrst_ironie_a_satiry_004.md",
             "xhtml": "hrst_ironie_a_satiry_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -96,7 +96,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Bez konfese"
           },
           {
             "filename": "hrst_ironie_a_satiry_006.md",
@@ -108,7 +109,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Jeglič biskup"
           },
           {
             "filename": "hrst_ironie_a_satiry_007.md",
@@ -120,7 +122,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Cesta k lásce"
           },
           {
             "filename": "hrst_ironie_a_satiry_008.md",
@@ -132,7 +135,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Veterán"
           },
           {
             "filename": "hrst_ironie_a_satiry_009.md",
@@ -144,7 +148,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Revoluční"
           },
           {
             "filename": "hrst_ironie_a_satiry_010.md",
@@ -156,7 +161,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pláč otce duchovního"
           },
           {
             "filename": "hrst_ironie_a_satiry_011.md",
@@ -168,7 +174,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nová hesla"
           },
           {
             "filename": "hrst_ironie_a_satiry_012.md",
@@ -180,7 +187,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "1848"
           },
           {
             "filename": "hrst_ironie_a_satiry_013.md",
@@ -192,7 +200,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Degradace"
           },
           {
             "filename": "hrst_ironie_a_satiry_014.md",
@@ -204,7 +213,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Večer k úctě Julia Zeyera"
           },
           {
             "filename": "hrst_ironie_a_satiry_015.md",
@@ -216,7 +226,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vojevůdce"
           },
           {
             "filename": "hrst_ironie_a_satiry_016.md",
@@ -228,7 +239,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Tělo ženy"
           },
           {
             "filename": "hrst_ironie_a_satiry_017.md",
@@ -240,7 +252,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "List programový"
           },
           {
             "filename": "hrst_ironie_a_satiry_018.md",
@@ -252,7 +265,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Hospodářství"
           },
           {
             "filename": "hrst_ironie_a_satiry_019.md",
@@ -264,7 +278,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vroucný dopis"
           },
           {
             "filename": "hrst_ironie_a_satiry_020.md",
@@ -276,7 +291,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nová fáse"
           },
           {
             "filename": "hrst_ironie_a_satiry_021.md",
@@ -288,7 +304,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Konstituce"
           },
           {
             "filename": "hrst_ironie_a_satiry_022.md",
@@ -300,7 +317,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Posvícení"
           },
           {
             "filename": "hrst_ironie_a_satiry_023.md",
@@ -312,7 +330,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Slečně"
           },
           {
             "filename": "hrst_ironie_a_satiry_024.md",
@@ -324,7 +343,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Srbsko"
           },
           {
             "filename": "hrst_ironie_a_satiry_025.md",
@@ -336,7 +356,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Modlitba v pensionátu"
           },
           {
             "filename": "hrst_ironie_a_satiry_026.md",
@@ -348,7 +369,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ve jménu světla!"
           },
           {
             "filename": "hrst_ironie_a_satiry_027.md",
@@ -360,7 +382,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rci, Říme…"
           },
           {
             "filename": "hrst_ironie_a_satiry_028.md",
@@ -372,7 +395,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Kraj"
           },
           {
             "filename": "hrst_ironie_a_satiry_029.md",
@@ -384,7 +408,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Oloupená rodička"
           },
           {
             "filename": "hrst_ironie_a_satiry_030.md",
@@ -396,7 +421,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Korutanské malversace"
           },
           {
             "filename": "hrst_ironie_a_satiry_031.md",
@@ -408,7 +434,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Byl jednou jeden…"
           },
           {
             "filename": "hrst_ironie_a_satiry_032.md",
@@ -420,7 +447,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Písnička o říšské radě"
           },
           {
             "filename": "hrst_ironie_a_satiry_033.md",
@@ -432,7 +460,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Volební reformě"
           },
           {
             "filename": "hrst_ironie_a_satiry_034.md",
@@ -444,7 +473,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Aviatika"
           },
           {
             "filename": "hrst_ironie_a_satiry_035.md",
@@ -456,7 +486,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Rozjímání"
           },
           {
             "filename": "hrst_ironie_a_satiry_036.md",
@@ -468,7 +499,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Nové království"
           },
           {
             "filename": "hrst_ironie_a_satiry_037.md",
@@ -480,7 +512,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Maršálské jubileum"
           },
           {
             "filename": "hrst_ironie_a_satiry_038.md",
@@ -492,7 +525,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Vzhůru!"
           },
           {
             "filename": "hrst_ironie_a_satiry_039.md",
@@ -504,7 +538,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Balada"
           },
           {
             "filename": "hrst_ironie_a_satiry_040.md",
@@ -516,7 +551,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Pro lásku"
           },
           {
             "filename": "hrst_ironie_a_satiry_041.md",
@@ -528,7 +564,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Literát"
           },
           {
             "filename": "hrst_ironie_a_satiry_042.md",
@@ -540,7 +577,8 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Matce"
           },
           {
             "filename": "hrst_ironie_a_satiry_043.md",
@@ -552,15 +590,16 @@
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
-            "children": []
+            "children": [],
+            "title": "Ku konci života"
           },
           {
             "filename": "hrst_ironie_a_satiry_044.md",
             "xhtml": "hrst_ironie_a_satiry_044.xhtml",
             "id": 43,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hungry": false,
             "devoured": false,
             "hiddenTitle": false,
@@ -911,6 +950,6 @@
       "user": "books-are-next",
       "repo": "opolsky-hrst-ironie-a-satiry"
     },
-    "generatedAt": 1661423098193
+    "generatedAt": 1661426579627
   }
 }
