@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "opolsky-hrst-ironie-a-satiry-e733f7a",
-  "revision": "e733f7a",
+  "identifier": "opolsky-hrst-ironie-a-satiry-2a53d47",
+  "revision": "2a53d47",
   "readingOrder": [
     "promo.html",
     "hrst_ironie_a_satiry_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:00:23 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924423227
+    "date": "Fri Oct 07 2022 13:50:53 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665150653036
   },
   "documents": [
     {
