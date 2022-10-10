@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "opolsky-hrst-ironie-a-satiry-2a53d47",
-  "revision": "2a53d47",
+  "identifier": "opolsky-hrst-ironie-a-satiry-18844bc",
+  "revision": "18844bc",
   "readingOrder": [
     "promo.html",
     "hrst_ironie_a_satiry_005.html",
@@ -54,8 +54,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Fri Oct 07 2022 13:50:53 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1665150653036
+    "date": "Mon Oct 10 2022 15:42:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665416556663
   },
   "documents": [
     {
@@ -854,7 +854,7 @@
       "title": "Tiráž",
       "file": "about.html",
       "words": 134,
-      "chars": 867,
+      "chars": 868,
       "ideas": 14,
       "role": "about",
       "order": null,
@@ -874,7 +874,7 @@
   "totals": {
     "all": {
       "words": 8690,
-      "chars": 49413,
+      "chars": 49414,
       "ideas": 1486
     },
     "chapters": {
